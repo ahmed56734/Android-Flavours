@@ -1,3 +1,3 @@
 # Android-Flavours
 
-(Screenshot1.png?raw=true "Optional Title")
+![ScreenShot](https://raw.githubusercontent.com/ahmed56734/Android-Flavours/master/Screenshot1.png)
